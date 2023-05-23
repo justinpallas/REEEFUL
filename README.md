@@ -2,7 +2,7 @@
 
 ## Übung 5 (Positionsbestimmung)
 
-Kombination von GPS und IMU in Matlab
+### Kombination von GPS und IMU in Matlab
 Die Kombination von GPS (Global Positioning System) und IMU (Inertial Measurement Unit) ist eine effektive Methode zur Navigation von Drohnen und anderen autonomen Fluggeräten. Während GPS-Signale eine hochpräzise Positionierung in der horizontalen Ebene ermöglichen, sind sie in der vertikalen Ebene weniger zuverlässig, insbesondere in urbanen Gebieten oder in der Nähe von hohen Gebäuden, wo das GPS-Signal von Gebäuden und anderen Hindernissen blockiert oder reflektiert werden kann. Die IMU hingegen bietet kontinuierliche Messungen von Beschleunigung und Winkelgeschwindigkeit in allen drei Raumrichtungen, was eine genaue Bestimmung der Bewegungen und Ausrichtung der Drohne ermöglicht.
 
 Durch die Kombination von GPS- und IMU-Daten können die Vorteile beider Systeme genutzt und ihre jeweiligen Nachteile ausgeglichen werden. Die Sensorfusion von GPS und IMU verbessert die Positionierungsgenauigkeit und Stabilität der Drohnenflugbahn, was für Anwendungen wie Vermessung, Kartierung, Inspektion und Überwachung von Gebäuden und Infrastruktur, Rettungs- und Notfallmissionen sowie automatisierte Landungen von großer Bedeutung ist.
